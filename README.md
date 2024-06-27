@@ -60,10 +60,6 @@ Get the most recent macroeconomic data including:
     1914-1   2.041
 ```
 
-```
-    m.update_cpi()
-```
-
 ###### Fed Funds Data
 
 - Get historical Federal Funds Rate data.
