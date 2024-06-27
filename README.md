@@ -21,7 +21,7 @@ Get the most recent macroeconomic data including:
 
 ```
 
-2. Install the projects requirements with `pip install -r requirements.txt`
+3. Install the projects requirements with `pip install -r requirements.txt`
 
 ---
 
@@ -59,8 +59,6 @@ Get the most recent macroeconomic data including:
     1914-2   1.020
     1914-1   2.041
 ```
-
-     - Alternatively if you want to force an update on your local csv file you can
 
 ```
     m.update_cpi()
