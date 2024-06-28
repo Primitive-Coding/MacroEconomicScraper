@@ -433,7 +433,7 @@ if __name__ == "__main__":
 
     m = MacroScraper(debug=True)
 
-    df = m.get_treasury_yield_spread()
+    df = m.get_fed_funds()
     print(f"DF: {df}")
     """
     Logic Here
